@@ -19,7 +19,7 @@ git switch --create branch_name # create a new branch, and switch to it
 
 Now, you can make any edits to your previous code, and commit it to this branch. And you can `git switch` to the previous branch to make the changes go away. When you switch back to this branch, the changes will be restored!
 
-To begin, create a branch called `branching` and switch to it. This will be out principle branch for now.
+To begin, create a branch called `branching` and switch to it. This will be our principle branch for now.
 
 Then, create a branch called `hello_world` and switch to it. Then, create a hello world program in any language, and save the file in a directory called `hellos`. Commit this change.
 
