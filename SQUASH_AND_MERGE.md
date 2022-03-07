@@ -6,9 +6,9 @@ Usually, when multiple people work on the same file, managing everyone's contrib
 
 - Create a branch called `squashing`
 - In your `squashing` branch, add a program to print `Hello, World` and save it in a file called `hello`(for example, `hello.py`)
-- Switch back to `master`, and create a new branch called `hello-git`. In `hello-git`, add a program to print `Hello, git` and save it in a file called `hello`(for example, `hello.py`)
+- Switch back to `master`, and create a new branch called `hello-git`. In `hello-git`, add a program to print `Hello, git` and save it in a file called `hello`(this name has to be the same as the name above)
 
-Notice that we have modified/created the same file with the same path in the repository. What do you think will happen whenn we try to merge these branches?
+Notice that we have modified/created the same file with the same path in the repository. What do you think will happen when we try to merge these branches?
 
 ## Merging
 
@@ -49,7 +49,7 @@ Push the changes and create a PR.
 
 ## Squashing
 
-You should now have two commits in the `squashing` branch, one adding hello world, and one about the merge. When you contribute to a large project, you usually *squash* all the commits into a single commit for brevity. So, a single feature gets a single commit.
+You should now have two commits in the `squashing` branch, one adding hello world, and one about the merge. When you contribute to a large project, you usually *squash* all new commits into a single commit for brevity. So, one feature gets one commit.
 
 To *squash* the multiple commits into one, we can do an *interactive rebase*. To start, run `git rebase --interactive HEAD~2`. Replace the `pick` on the second line with `s` to squash the commit. Save the file and exit the editor. You will then be prompted to enter a new commit message for the combination of the two commits.
 

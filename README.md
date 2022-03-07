@@ -6,13 +6,13 @@ You probably want to read the entire document before you start, so that you have
 
 ## Forking
 
-To make changes, let's start by [forking](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository. You should see a fork button when you open the link in a browser. Simply click it, and let github create a fork for you. You should be taken to your version of the repository automatically.
+To make changes, let's start by [forking](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository. You should see a fork button when you open the link in a browser. Simply click it, and let github create a fork for you. You should be taken to your version of the repository(the fork) automatically.
 
 You can now make changes by using this as a starting point for your work, or you can make some changes and suggest them to the original repository.
 
 ## Pull Requests
 
-Pull requests allow you to suggest certain changes you have made to the main repository. Your changes can then be incorporated in the original repository(i.e, your *pull request* is *merged*).
+Pull requests allow you to suggest certain changes you have made to the main repository. Your changes can then be incorporated in the original (usually called upstream) repository(i.e, your *pull request* is *merged*).
 
 Start by editing the following line:
 

@@ -23,7 +23,7 @@ We will create a new directory called images and add an image to the directory. 
 
 ## Committing
 
-Add the files to the *staging area* by running  `git add images/` in the `images` directory. Then, you can commit them with `git commit -m 'commit message'`. You can replace the commit message with a line describing what this commit is.
+Add the files to the *staging area* by running  `git add images/`. Then, you can commit them with `git commit -m 'commit message'`. You can replace the commit message with a line describing what this commit is.
 
 If you'd like to see the current status of the repository, you can `git status`.
 
