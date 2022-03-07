@@ -24,6 +24,6 @@ Then, change the `[ ]` in the line above to `[x]`. You can then save the changes
 
 After you have commited the changes, you can [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). Go to the root of your repository, and you should see a contribute option. Open a pull request, and allow edits from maintaners.
 
-### Next steps
+## Next steps
 
 Next steps are in CLONING.md 

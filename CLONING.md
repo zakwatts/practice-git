@@ -35,7 +35,7 @@ Finally, `git push` to push the changes to the remote. Assuming you have complet
 
 After the changes are pushed, you can create a PR to the original repository, just like the last time.
 
-### Next steps
+## Next steps
 
 Next steps are in BRANCHES.md
 
