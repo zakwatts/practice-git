@@ -5,8 +5,8 @@ Usually, when multiple people work on the same file, managing everyone's contrib
 ## Setup
 
 - Create a branch called `squashing`
-- In your `squashing` branch, add a program to print `Hello, World` and save it in a file called `hello`(for example, `hello.py`)
-- Switch back to `master`, and create a new branch called `hello-git`. In `hello-git`, add a program to print `Hello, git` and save it in a file called `hello`(this name has to be the same as the name above)
+- In your `squashing` branch, add a program to print `Hello, World` and save it in a file called `hello`(for example, `hello.py`). Add it to git and commit it.
+- Switch back to `master`, and create a new branch called `hello-git`. In `hello-git`, add a program to print `Hello, git` and save it in a file called `hello`(for example, `hello.py`. This name has to be the same as the name above). Add it to git and commit it.
 
 Notice that we have modified/created the same file with the same path in the repository. What do you think will happen when we try to merge these branches?
 
