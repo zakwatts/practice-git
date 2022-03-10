@@ -12,7 +12,7 @@ Notice that we have modified/created the same file with the same path in the rep
 
 ## Merging
 
-In your `squashing` branch, `git merge hello-git` to merge the `hello-git` branch into `squashing`.  You will probably see a scary message like this:
+In your `squashing` branch, `git merge --squash hello-git` to merge the `hello-git` branch into `squashing`.  You will probably see a scary message like this:
 
 ```
 Auto-merging hello.py
