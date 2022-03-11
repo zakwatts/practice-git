@@ -23,23 +23,6 @@ jobs:
               labels: ['accepted-3']
             })
       - name: Close issue
-        uses: actions/github-script@v6
+        uses: superbrothers/close-pull-request@v3
         with:
-          script: |
-            github.rest.pulls.update({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              stste: 'closed'
-            })
-      - name: Comment on issue
-        uses: actions/github-script@v6
-        with:
-          script: |
-            github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: 'This PR was closed by a bot. If this was a mistake, please re-open this issue and tag @pranavgade20'
-            })
-            
+          comment: "This PR was closed by a bot. If this was a mistake, please re-open this issue and tag @pranavgade20"
