@@ -37,7 +37,7 @@ After the changes are pushed, you can create a PR to the original repository, ju
 
 ## Next steps
 
-Next steps are in BRANCHES.md
+Next steps are in [BRANCHES.md](BRANCHES.md)
 
 
 

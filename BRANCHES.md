@@ -41,4 +41,4 @@ Push the changes and create a PR to the original repository. You will have to sw
 
 ## Next steps
 
-See SQUASH_AND_MERGE.md
+See [SQUASH_AND_MERGE.md](SQUASH_AND_MERGE.md)

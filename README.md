@@ -26,4 +26,4 @@ After you have commited the changes, you can [create a pull request](https://doc
 
 ## Next steps
 
-Next steps are in CLONING.md 
+Next steps are in [CLONING.md](CLONING.md) 

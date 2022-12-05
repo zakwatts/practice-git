@@ -43,5 +43,3 @@ A complete list of all configuration options can be found [here](https://git-scm
 
 You can go to https://learngitbranching.js.org/ to learn more advanced git topics in a interactive and visual method. Complete the exercises and create a PR with a screenshot showing completed levels. You will get 1 point every 5 exercises, and 4 points for completing all of it.
 
-
-

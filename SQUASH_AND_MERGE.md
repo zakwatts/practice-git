@@ -57,4 +57,4 @@ After you are done squashing the commits, push the changes. Since you are pushin
 
 ## Next steps
 
-See TIME_TRAVELLING.md
+See [TIME_TRAVELLING.md](TIME_TRAVELLING.md)

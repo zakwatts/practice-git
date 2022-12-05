@@ -36,7 +36,7 @@ To erase git's memory of updates, but keep your changes in the files intact, you
 
 ## Next steps
 
-See MISC.md
+See [MISC.md](MISC.md)
 
 
 
